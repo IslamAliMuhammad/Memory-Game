@@ -6,4 +6,5 @@ https://islamalimuhammad.github.io/Memory-Game/
 * Clone this project: `git clone https://github.com/IslamAliMuhammad/Memory-Game.git`
 * `cd Memory-Game`
 * Open `index.html` in a browser
-
+## Screenshot
+![image](https://github.com/IslamAliMuhammad/Memory-Game/blob/master/img/memory-game-screenshot.PNG)
